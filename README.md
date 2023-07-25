@@ -8,6 +8,8 @@ answer of question 1 ->
 ~ in program1pro.c solve with DMA
 
 
+
+
 Assignment 1:
 
 Data Structures and Algorithms (BCECCE3102)
@@ -19,4 +21,5 @@ Instructor: Jaskirat Singh
 July 20, 2023
 
 Answer of Assignment 1 
+
 ~ in Assignment1.c
