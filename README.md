@@ -21,7 +21,6 @@ Section B Programming in C/C++
 Assignment 1: Highest Base Frequency Distribution overRandom Integers
 
 Instructor: Jaskirat Singh
-July 20, 2023
 
 Answer of Assignment 1 
 
