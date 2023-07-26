@@ -27,4 +27,11 @@ Answer of Assignment 1
 
 EverydayAssignment 1: Highest Base of a Random Integer
 
+Data Structures and Algorithms (BCECCE3102)
+Section B Programming in C/C++
+
 Instructor: Jaskirat Singh
+
+Answer of EverydayAssignment 1 
+
+~ in EverydayAssignment1.c
