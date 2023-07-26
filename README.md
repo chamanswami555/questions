@@ -13,15 +13,18 @@ answer of question 1 ->
 
 
 
-Assignment 1:
+Assignment 1: Highest Base Frequency Distribution overRandom Integers
 
 Data Structures and Algorithms (BCECCE3102)
 Section B Programming in C/C++ 
-
-Assignment 1: Highest Base Frequency Distribution overRandom Integers
 
 Instructor: Jaskirat Singh
 
 Answer of Assignment 1 
 
 ~ in Assignment1.c
+
+
+EverydayAssignment 1: Highest Base of a Random Integer
+
+Instructor: Jaskirat Singh
