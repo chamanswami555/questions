@@ -92,4 +92,4 @@ bool Odd(int num)
 	
 }
 
-//~chamanswami
+//                  ~ chamanswami
