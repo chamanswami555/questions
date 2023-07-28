@@ -35,3 +35,15 @@ Instructor: Jaskirat Singh
 Answer of EverydayAssignment 1 
 
 ~ in EverydayAssignment1.c
+
+
+Everyday Assignment 2: Highest Base of Random 50 Integers
+
+Data Structures and Algorithms (BCECCE3102)
+Section B Programming in C/C++ 
+
+Instructor: Jaskirat Singh
+
+Answer of EverydayAssignment 2
+
+~ in EverydayAssignment2.c
