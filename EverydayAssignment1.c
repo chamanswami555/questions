@@ -48,7 +48,7 @@ int main()
 
     // Print the random integer and its highest base
     printf("The random integer is: %d\n", rn);
-    printf("The Highest Base of the random integer is: %d\n", B);
+    printf("The Highest Base of the random integer is: %lld\n", B);
 
     return 0;
 }
