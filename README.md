@@ -47,3 +47,15 @@ Instructor: Jaskirat Singh
 Answer of EverydayAssignment 2
 
 ~ in EverydayAssignment2.c
+
+
+Everyday Assignment 3: Highest Base Frequency over Random 50 Integers
+
+Data Structures and Algorithms (BCECCE3102)
+Section B Programming in C/C++ 
+
+Instructor: Jaskirat Singh
+
+Answer of EverydayAssignment 3
+
+~ in EverydayAssignment3.c
