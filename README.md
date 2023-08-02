@@ -59,3 +59,15 @@ Instructor: Jaskirat Singh
 Answer of EverydayAssignment 3
 
 ~ in EverydayAssignment3.c
+
+
+Everyday Assignment 4: Plotting the Frequency Distribution of Highest base Frequency over Random 50 Integers
+
+Data Structures and Algorithms (BCECCE3102)
+Section B Programming in C/C++ 
+
+Instructor: Jaskirat Singh
+
+Answer of EverydayAssignment 4
+
+~ in EverydayAssignment4.c
