@@ -10,10 +10,10 @@
 #include <stdlib.h>
 #include <time.h>
 
-// Function to generate a random integer with 10 digits and last digit >= 5
+// Function to generate a random integer in any range.
 int gri()
 {
-    return (rand() % 5000000000) + 5000000000;
+    return (rand() % 1000000000)+999999999;
 }
 
 // Function to find the highest base of an integer
