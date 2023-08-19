@@ -71,3 +71,15 @@ Instructor: Jaskirat Singh
 Answer of EverydayAssignment 4
 
 ~ in EverydayAssignment4.c
+
+
+Biweekly Assignment 2: Determining how many different Palindrome Strings can be generated from randomly generated Alphanumeric Palindrome String by reshuffling the characters
+
+Data Structures and Algorithms (BCECCE3102)
+Section B Programming in C/C++ 
+
+Instructor: Jaskirat Singh
+
+Answer of BiweeklyAssignment2
+
+~ in BiweeklyAssignment2.c
